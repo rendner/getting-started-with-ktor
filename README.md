@@ -4,4 +4,4 @@
 
 # Getting Started with Ktor
 
-This repository is the code corresponding to the hands-on lab [Introduction to Kotlin/Native Hands-On Lab](https://play.kotlinlang.org/hands-on/Getting%20Started%With%20Ktor/01_Introduction). 
+This repository is the code corresponding to the hands-on lab [Getting Started with Ktor](https://play.kotlinlang.org/hands-on/Getting%20Started%With%20Ktor/01_Introduction). 
